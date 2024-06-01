@@ -1,0 +1,13 @@
+{
+    "notifications" : "Notifications",
+    "mark_all_read" : "Mark all read",
+    "featured" : "Featured",
+    "readed" : "readed",
+    "latest_news" : "Latest news",
+    "time_ago": {
+        "day": "{} day ago",
+        "days": "{} days ago",
+        "day_hour": "{} day and {} hours ago",
+        "days_hours": "{} days and {} hours ago"
+      }
+}
